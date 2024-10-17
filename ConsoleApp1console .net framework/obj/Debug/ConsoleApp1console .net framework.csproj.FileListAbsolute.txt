@@ -1,0 +1,34 @@
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\obj\Debug\ConsoleApp1console .net framework.csproj.AssemblyReference.cache
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\obj\Debug\ConsoleApp1console .net framework.csproj.CoreCompileInputs.cache
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\ConsoleApp1console.net_framework.exe.config
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\ConsoleApp1console.net_framework.exe
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\ConsoleApp1console.net_framework.pdb
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Buffers.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Memory.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Text.Json.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.ValueTuple.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\WebDriver.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\WebDriver.Support.dll
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Buffers.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Memory.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Text.Json.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\System.ValueTuple.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\WebDriver.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\bin\Debug\WebDriver.Support.xml
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\obj\Debug\ConsoleA.7758BF4B.Up2Date
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\obj\Debug\ConsoleApp1console.net_framework.exe
+C:\Users\DEV-PC 10\source\repos\ConsoleApp1console .net framework\ConsoleApp1console .net framework\obj\Debug\ConsoleApp1console.net_framework.pdb
